@@ -1,3 +1,21 @@
+.MenuGroup a {
+  text-decoration: none;
+  color: black;
+  line-height: 28px;
+}
+
+.Logo {
+  width: 100%;
+  height: 100%;
+  background-image: url("./images/JH-logo-black.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#AboutPosition {
+  margin-left: 36px;
+}
+
 @media only screen and (min-width: 1280px) {
   .MenuWeb {
     display: block;
@@ -172,28 +190,4 @@
     align-items: center;
   }
 
-}
-
-.MenuGroup a {
-  text-decoration: none;
-  color: black;
-  line-height: 28px;
-  transition: line-height 0.2s ease-in-out;
-  -webkit-transition: line-height 0.2s ease-in-out;
-}
-
-.MenuGroup a:hover {
-  line-height: 0px;
-}
-
-.Logo {
-  width: 100%;
-  height: 100%;
-  background-image: url("./images/JH-logo-black.png");
-  background-size: cover;
-  background-position: center;
-}
-
-#AboutPosition {
-  margin-left: 36px;
 }
