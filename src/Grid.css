@@ -939,6 +939,7 @@
     .GridCLI {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -969,6 +970,7 @@
     .GridWSP {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -999,6 +1001,7 @@
     .GridSLP {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1029,6 +1032,7 @@
     .GridFuelCycle {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1059,6 +1063,7 @@
     .GridJangSoo {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1089,6 +1094,7 @@
     .GridImager {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1119,6 +1125,7 @@
     .GridCSS {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1149,6 +1156,7 @@
     .GridCOVID {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1179,6 +1187,7 @@
     .GridMCW {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1209,6 +1218,7 @@
     .GridPDP {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1239,6 +1249,7 @@
     .GridHargreaves {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1269,6 +1280,7 @@
     .GridUX {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1299,6 +1311,7 @@
     .GridMTAMan {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1329,6 +1342,7 @@
     .GridNAVI {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
@@ -1359,6 +1373,7 @@
     .GridMooMilk {
         position: relative;
         width: 50%;
+        height: 130px;
         display: flex;
     }
       
