@@ -130,38 +130,6 @@
 
 }
 
-.MenuGroup a {
-  text-decoration: none;
-  color: black;
-  line-height: 28px;
-  transition: line-height 0.2s ease-in-out;
-}
-
-.MenuGroup a:hover {
-  line-height: 0px;
-}
-
-.Logo {
-  width: 100%;
-  height: 100%;
-  background-image: url("./images/JH-logo-black.png");
-  background-size: cover;
-  background-position: center;
-}
-
-.LogoMobile {
-  width: 40px;
-  height: 40px;
-  margin-top: 10px;
-  background-image: url("./images/JH-logo-white.png");
-  background-size: cover;
-  background-position: center;
-}
-
-#AboutPosition {
-  margin-left: 36px;
-}
-
 @media only screen and (max-width: 460px) {
   .MenuWeb {
     display: none;
