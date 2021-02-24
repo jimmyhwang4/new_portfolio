@@ -1,0 +1,467 @@
+.AboutFacebook:hover {
+    filter: opacity(0.6);
+}
+
+.AboutInstagram:hover {
+    filter: opacity(0.6);
+}
+
+.AboutLinkedIn:hover {
+    filter: opacity(0.6);
+}
+
+.AboutGithub:hover {
+    filter: opacity(0.6);
+}
+
+@media only screen and (min-width: 1024px) {
+    .AboutWrapper {
+        width: 100%;
+        height: 480px;
+    
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .AboutImageContainer {
+        width: 50%;
+        height: 100%;
+        background-color: rgb(215, 255, 255);
+    }
+    
+    .AboutTextContainer {
+        width: 50%;
+        height: 100%;
+    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .AboutTextBox {
+        width: 80%;
+        margin-top: 24px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .AboutTextTitle {
+        width: 100%;
+        font-weight: 900;
+        font-size: 28px;
+    
+        display: flex;
+        justify-content: center;
+    }
+
+    .AboutTextTitleMobile {
+        display: none;
+    }
+
+    .AboutTextContent {
+        width: 100%;
+        margin-top: -28px;
+        font-weight: 400;
+        font-size: 16px;
+    
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .AboutTextContent a {
+        color: black;
+    }
+    
+    .AboutSocialBar {
+        width: 60%;
+        height: 40px;
+        margin-top: 24px;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .AboutFacebook {
+        height: 40px;
+        width: 40px;
+        background-image: url("./images/Socials/facebook.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutInstagram {
+        height: 43px;
+        width: 43px;
+        margin-top: -1.5px;
+        background-image: url("./images/Socials/instagram.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLinkedIn {
+        height: 41.5px;
+        width: 41.5px;
+        margin-top: -0.5px;
+        background-image: url("./images/Socials/linkedin.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutGithub {
+        height: 40px;
+        width: 40px;
+        background-image: url("./images/Socials/github.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLine {
+        width: 40%;
+        height: 4px;
+        margin-top: 44px;
+        background-color: black;
+    }
+}
+
+@media only screen and (max-width: 1023.9px) {
+    .AboutWrapper {
+        width: 100%;
+        height: 480px;
+    
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .AboutImageContainer {
+        width: 50%;
+        height: 100%;
+        background-color: rgb(215, 255, 255);
+    }
+    
+    .AboutTextContainer {
+        width: 50%;
+        height: 100%;
+    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .AboutTextBox {
+        width: 80%;
+        margin-top: 0px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .AboutTextTitle {
+        width: 100%;
+        font-weight: 900;
+        font-size: 28px;
+    
+        display: flex;
+        justify-content: center;
+    }
+
+    .AboutTextTitleMobile {
+        display: none;
+    }
+
+    .AboutTextContent {
+        width: 100%;
+        margin-top: -28px;
+        font-weight: 400;
+        font-size: 16px;
+    
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .AboutTextContent a {
+        color: black;
+    }
+    
+    .AboutSocialBar {
+        width: 75%;
+        height: 32px;
+        margin-top: 16px;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .AboutFacebook {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/facebook.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutInstagram {
+        height: 34px;
+        width: 34px;
+        margin-top: -0.5px;
+        background-image: url("./images/Socials/instagram.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLinkedIn {
+        height: 32px;
+        width: 32px;
+        margin-top: 0px;
+        background-image: url("./images/Socials/linkedin.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutGithub {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/github.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLine {
+        width: 50%;
+        height: 4px;
+        margin-top: 34px;
+        background-color: black;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .AboutWrapper {
+        width: 100%;
+        height: 100%;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .AboutImageContainer {
+        width: 80%;
+        height: 400px;
+        background-color: rgb(215, 255, 255);
+    }
+    
+    .AboutTextContainer {
+        width: 100%;
+        height: 100%;
+        margin-top: 44px;
+    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .AboutTextBox {
+        width: 80%;
+        margin-top: 0px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .AboutTextTitle {
+        display: none;
+    }
+
+    .AboutTextTitleMobile {
+        width: 100%;
+        font-weight: 900;
+        font-size: 24px;
+        margin-top: -5px;
+        margin-bottom: -3px;
+    
+        display: flex;
+        justify-content: center;
+    }
+
+    .AboutTextContent {
+        width: 100%;
+        margin-top: -28px;
+        font-weight: 400;
+        font-size: 16px;
+    
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .AboutTextContent a {
+        color: black;
+    }
+    
+    .AboutSocialBar {
+        width: 50%;
+        height: 32px;
+        margin-top: 16px;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .AboutFacebook {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/facebook.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutInstagram {
+        height: 34px;
+        width: 34px;
+        margin-top: -0.5px;
+        background-image: url("./images/Socials/instagram.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLinkedIn {
+        height: 32px;
+        width: 32px;
+        margin-top: 0px;
+        background-image: url("./images/Socials/linkedin.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutGithub {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/github.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLine {
+        width: 30%;
+        height: 4px;
+        margin-top: 34px;
+        background-color: black;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .AboutWrapper {
+        width: 100%;
+        height: 100%;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .AboutImageContainer {
+        width: 80%;
+        height: 200px;
+        background-color: rgb(215, 255, 255);
+    }
+    
+    .AboutTextContainer {
+        width: 100%;
+        height: 100%;
+        margin-top: 44px;
+    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .AboutTextBox {
+        width: 80%;
+        margin-top: 0px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .AboutTextTitle {
+        display: none;
+    }
+
+    .AboutTextTitleMobile {
+        width: 100%;
+        font-weight: 900;
+        font-size: 7vw;
+        margin-top: 60px;
+        margin-bottom: -3px;
+    
+        display: flex;
+        justify-content: center;
+    }
+
+    .AboutTextContent {
+        width: 100%;
+        margin-top: -28px;
+        font-weight: 400;
+        font-size: 4vw;
+    
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .AboutTextContent a {
+        color: black;
+    }
+    
+    .AboutSocialBar {
+        width: 80%;
+        height: 32px;
+        margin-top: 16px;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .AboutFacebook {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/facebook.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutInstagram {
+        height: 34px;
+        width: 34px;
+        margin-top: -0.5px;
+        background-image: url("./images/Socials/instagram.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLinkedIn {
+        height: 32px;
+        width: 32px;
+        margin-top: 0px;
+        background-image: url("./images/Socials/linkedin.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutGithub {
+        height: 32px;
+        width: 32px;
+        background-image: url("./images/Socials/github.png");
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .AboutLine {
+        width: 50%;
+        height: 4px;
+        margin-top: 34px;
+        background-color: black;
+    }
+}

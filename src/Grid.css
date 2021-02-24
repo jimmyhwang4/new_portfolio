@@ -1,0 +1,1386 @@
+@media only screen and (min-width: 760px) {
+    .PortfolioGridContainer {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .GridSubtext {
+        font-size: 1vw;
+        font-weight: 400;
+        color: rgb(255, 255, 168);
+    }
+
+    .GridCLI {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .CLI {
+        display: none;
+    }
+    
+    .GridCLI:hover .CLI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridWSP {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .WSP {
+        display: none;
+    }
+    
+    .GridWSP:hover .WSP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 22, 22, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridSLP {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .SLP {
+        display: none;
+    }
+    
+    .GridSLP:hover .SLP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(53, 52, 30, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridFuelCycle {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .FuelCycle {
+        display: none;
+    }
+    
+    .GridFuelCycle:hover .FuelCycle {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 16, 27, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridJangSoo {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .JangSoo {
+        display: none;
+    }
+    
+    .GridJangSoo:hover .JangSoo {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(26, 26, 26, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridImager {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .Imager {
+        display: none;
+    }
+    
+    .GridImager:hover .Imager {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(43, 26, 42, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCSS {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .CSS {
+        display: none;
+    }
+    
+    .GridCSS:hover .CSS {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(49, 37, 20, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCOVID {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .COVID {
+        display: none;
+    }
+    
+    .GridCOVID:hover .COVID {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 34, 25, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMCW {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .MCW {
+        display: none;
+    }
+    
+    .GridMCW:hover .MCW {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(4, 5, 26, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridPDP {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .PDP {
+        display: none;
+    }
+    
+    .GridPDP:hover .PDP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 11, 11, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridHargreaves {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .Hargreaves {
+        display: none;
+    }
+    
+    .GridHargreaves:hover .Hargreaves {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(33, 39, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridUX {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .UX {
+        display: none;
+    }
+    
+    .GridUX:hover .UX {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMTAMan {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .MTAMan {
+        display: none;
+    }
+    
+    .GridMTAMan:hover .MTAMan {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridNAVI {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .NAVI {
+        display: none;
+    }
+    
+    .GridNAVI:hover .NAVI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMooMilk {
+        position: relative;
+        width: 33.33%;
+        display: flex;
+    }
+      
+    .MooMilk {
+        display: none;
+    }
+    
+    .GridMooMilk:hover .MooMilk {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(54, 28, 34, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 2vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 759.9px) {
+    .PortfolioGridContainer {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .GridSubtext {
+        font-size: 1.5vw;
+        font-weight: 400;
+        color: rgb(255, 255, 168);
+    }
+
+    .GridCLI {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .CLI {
+        display: none;
+    }
+    
+    .GridCLI:hover .CLI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridWSP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .WSP {
+        display: none;
+    }
+    
+    .GridWSP:hover .WSP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 22, 22, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridSLP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .SLP {
+        display: none;
+    }
+    
+    .GridSLP:hover .SLP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(53, 52, 30, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridFuelCycle {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .FuelCycle {
+        display: none;
+    }
+    
+    .GridFuelCycle:hover .FuelCycle {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 16, 27, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridJangSoo {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .JangSoo {
+        display: none;
+    }
+    
+    .GridJangSoo:hover .JangSoo {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(26, 26, 26, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridImager {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .Imager {
+        display: none;
+    }
+    
+    .GridImager:hover .Imager {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(43, 26, 42, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCSS {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .CSS {
+        display: none;
+    }
+    
+    .GridCSS:hover .CSS {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(49, 37, 20, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCOVID {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .COVID {
+        display: none;
+    }
+    
+    .GridCOVID:hover .COVID {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 34, 25, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMCW {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MCW {
+        display: none;
+    }
+    
+    .GridMCW:hover .MCW {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(4, 5, 26, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridPDP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .PDP {
+        display: none;
+    }
+    
+    .GridPDP:hover .PDP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 11, 11, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridHargreaves {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .Hargreaves {
+        display: none;
+    }
+    
+    .GridHargreaves:hover .Hargreaves {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(33, 39, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridUX {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .UX {
+        display: none;
+    }
+    
+    .GridUX:hover .UX {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMTAMan {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MTAMan {
+        display: none;
+    }
+    
+    .GridMTAMan:hover .MTAMan {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridNAVI {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .NAVI {
+        display: none;
+    }
+    
+    .GridNAVI:hover .NAVI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMooMilk {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MooMilk {
+        display: none;
+    }
+    
+    .GridMooMilk:hover .MooMilk {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(54, 28, 34, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .PortfolioGridContainer {
+        width: 100%;
+        margin-top: 60px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .GridSubtext {
+        font-size: 2vw;
+        font-weight: 400;
+        color: rgb(255, 255, 168);
+    }
+
+    .GridCLI {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .CLI {
+        display: none;
+    }
+    
+    .GridCLI:hover .CLI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridWSP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .WSP {
+        display: none;
+    }
+    
+    .GridWSP:hover .WSP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 22, 22, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridSLP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .SLP {
+        display: none;
+    }
+    
+    .GridSLP:hover .SLP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(53, 52, 30, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridFuelCycle {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .FuelCycle {
+        display: none;
+    }
+    
+    .GridFuelCycle:hover .FuelCycle {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(22, 16, 27, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridJangSoo {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .JangSoo {
+        display: none;
+    }
+    
+    .GridJangSoo:hover .JangSoo {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(26, 26, 26, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridImager {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .Imager {
+        display: none;
+    }
+    
+    .GridImager:hover .Imager {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(43, 26, 42, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCSS {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .CSS {
+        display: none;
+    }
+    
+    .GridCSS:hover .CSS {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(49, 37, 20, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridCOVID {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .COVID {
+        display: none;
+    }
+    
+    .GridCOVID:hover .COVID {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 34, 25, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMCW {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MCW {
+        display: none;
+    }
+    
+    .GridMCW:hover .MCW {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(4, 5, 26, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridPDP {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .PDP {
+        display: none;
+    }
+    
+    .GridPDP:hover .PDP {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(20, 11, 11, 0.85);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridHargreaves {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .Hargreaves {
+        display: none;
+    }
+    
+    .GridHargreaves:hover .Hargreaves {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(33, 39, 37, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridUX {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .UX {
+        display: none;
+    }
+    
+    .GridUX:hover .UX {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMTAMan {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MTAMan {
+        display: none;
+    }
+    
+    .GridMTAMan:hover .MTAMan {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridNAVI {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .NAVI {
+        display: none;
+    }
+    
+    .GridNAVI:hover .NAVI {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(14, 15, 37, 0.8);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    
+    .GridMooMilk {
+        position: relative;
+        width: 50%;
+        display: flex;
+    }
+      
+    .MooMilk {
+        display: none;
+    }
+    
+    .GridMooMilk:hover .MooMilk {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(54, 28, 34, 0.9);
+        color: white;
+        font-family: 'Overpass';
+        font-weight: 700;
+        text-align: center;
+        font-size: 3.5vw;
+        line-height: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
