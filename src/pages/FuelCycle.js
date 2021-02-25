@@ -60,7 +60,7 @@ function FuelCycle() {
                                 <br></br>
 
                                 <h2>TOOLS USED</h2>
-                                <p>Adobe Indesign</p>
+                                <p>Adobe InDesign</p>
                                 <div className="PPBar100"></div>
                                 <p>Adobe Photoshop</p>
                                 <div className="PPBar75"></div>

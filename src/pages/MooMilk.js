@@ -61,7 +61,7 @@ function MooMilk() {
                                 <h2>TOOLS USED</h2>
                                 <p>Adobe Illustrator</p>
                                 <div className="PPBar100"></div>
-                                <p>Adobe Indesign</p>
+                                <p>Adobe InDesign</p>
                                 <div className="PPBar100"></div>
                                 <p>Adobe Photoshop</p>
                                 <div className="PPBar100"></div>
