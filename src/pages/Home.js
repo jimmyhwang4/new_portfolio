@@ -21,8 +21,8 @@ function Home() {
                 </div>
                 <div className="FeaturedContainer">
                     <div className="FeaturedText">
-                        <p>FEATURED WORK</p>
-                        <p id="FeaturedWorkName">COVID-19 TRACKING APP</p>
+                        <p>LOS ANGELES | NEW YORK CITY</p>
+                        <p id="FeaturedWorkName">✉ JIMMYHWANG@NYU.EDU</p>
                     </div>
                 </div>
             </div>

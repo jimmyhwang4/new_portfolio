@@ -12,6 +12,16 @@
   background-position: center;
 }
 
+.LogoMobile {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  background-image: url("./images/JH-logo-white.png");
+  background-size: cover;
+  background-position: center;
+}
+
+
 #AboutPosition {
   margin-left: 36px;
 }

@@ -13,10 +13,10 @@ const FadeGallery = () => {
     };
 
     const fadeImages = [
-        "/1.jpg",
-        "/2.jpg",
-        "/3.jpg",
-        "/4.jpg"
+        "/Portfolio/COVID/COVID.jpg",
+        "/Portfolio/JSS/JSS-large.jpg",
+        "/Portfolio/FuelCycle/FuelCycle-large.jpg",
+        "/Portfolio/PDP/PDP-large.jpg"
     ];
 
     return (
