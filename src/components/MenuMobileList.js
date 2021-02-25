@@ -50,7 +50,7 @@ const MenuMobileList = ({ open }) => {
             <a href="/portfolio">PORTFOLIO</a>
             <a href="/experience">EXPERIENCE</a>
             <a href="/about">ABOUT</a>
-            <a href="/" target="_blank">RESUME</a>
+            <a href="/Jeehun_Hwang_Resume.pdf" target="_blank">RESUME</a>
 
             <div className="mobileSocials">
                 <a href="https://www.linkedin.com/in/jimmy-hwang-564958162/" target="_blank"><img src="/socials/linkedin.png" width="40px" height="40px"></img></a>

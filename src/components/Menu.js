@@ -15,7 +15,7 @@ function Menu() {
                 </a>
                 <div className="MenuGroup">
                     <a href="/about" id="AboutPosition"><p>About</p></a>
-                    <a href="/"><p>Resume</p></a>
+                    <a href="/Jeehun_Hwang_Resume.pdf" target="_blank"><p>Resume</p></a>
                  </div>
             </div>
         </div>
