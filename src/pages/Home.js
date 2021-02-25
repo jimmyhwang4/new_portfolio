@@ -12,7 +12,7 @@ function Home() {
                     <div className="HomeHeader2">
                         <div className="HomeSubtitle">
                             <p>DIGITAL DESIGNER</p>
-                            <p id="HomeSubtitleSubtext">WEB | GRAPHIC | UX/UI</p>
+                            <p id="HomeSubtitleSubtext">WEB | GRAPHIC | UI/UX</p>
                         </div>
                         <div className="HomeButton">
                             <a href="/portfolio"><button className="HomeButton"><p>ENTER</p></button></a>
