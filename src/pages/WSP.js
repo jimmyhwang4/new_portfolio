@@ -89,10 +89,11 @@ function WSP() {
                     <div className="PPImageWrapper">
                         <h2>WEBSITE IMAGES</h2>
                         <div className="PPImageContainer">
-                            <img src="/portfolio/WSP/WSP-large.jpg"></img>
-                            <img src="/portfolio/WSP/WSP-large.jpg"></img>
-                            <img src="/portfolio/WSP/WSP-large.jpg"></img>
-                            <img src="/portfolio/WSP/WSP-large.jpg"></img>
+                            <img src="/portfolio/WSP/WSP-1.jpg"></img>
+                            <img src="/portfolio/WSP/WSP-2.jpg"></img>
+                            <img src="/portfolio/WSP/WSP-3.jpg"></img>
+                            <img src="/portfolio/WSP/WSP-4.jpg"></img>
+                            <img src="/portfolio/WSP/WSP-5.jpg"></img>
                         </div>
                     </div>
 

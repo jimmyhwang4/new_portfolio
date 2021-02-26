@@ -80,10 +80,11 @@ function SLP() {
                     <div className="PPImageWrapper">
                         <h2>WEBSITE IMAGES</h2>
                         <div className="PPImageContainer">
-                            <img src="/portfolio/SLP/SLP-large.jpg"></img>
-                            <img src="/portfolio/SLP/SLP-large.jpg"></img>
-                            <img src="/portfolio/SLP/SLP-large.jpg"></img>
-                            <img src="/portfolio/SLP/SLP-large.jpg"></img>
+                            <img src="/portfolio/SLP/SLP-1.jpg"></img>
+                            <img src="/portfolio/SLP/SLP-2.jpg"></img>
+                            <img src="/portfolio/SLP/SLP-3.jpg"></img>
+                            <img src="/portfolio/SLP/SLP-4.png"></img>
+                            <img src="/portfolio/SLP/SLP-5.png"></img>
                         </div>
                     </div>
 
