@@ -25,7 +25,7 @@ function About() {
                             <p>ABOUT ME</p>
                         </div>
                         <div className="AboutTextContent">
-                            <p><em>I am a digital designer based in Southern California with a Bachelor of Science in Integrated Digital Media at New York University. Forever a student of all types of design and production, I always find myself fascinated with works in web, UX/UI, and music. If you have any questions or comments, simply send me an email at <a href="mailto:jimmyhwang@nyu.edu">jimmyhwang@nyu.edu</a>.</em></p>
+                            <p><em>I am a digital designer currently based in Los Angeles with a Bachelor of Science in Integrated Digital Media at New York University. Forever a student of all types of design and production, I always find myself fascinated with works in web, UX/UI, and music. If you have any questions or comments, simply send me an email at <a href="mailto:jimmyhwang@nyu.edu">jimmyhwang@nyu.edu</a>.</em></p>
                             <p><em>Feel free to check out my social media channels as well!</em></p>
                         </div>
                         <div className="AboutSocialBar">
