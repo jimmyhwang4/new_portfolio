@@ -26,7 +26,10 @@
     .AboutImageContainer {
         width: 50%;
         height: 100%;
-        background-color: rgb(215, 255, 255);
+        background-image: url("./images/profile.png");
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     
     .AboutTextContainer {
@@ -34,11 +37,10 @@
         height: 100%;
     
         display: flex;
-        justify-content: center;
     }
     
     .AboutTextBox {
-        width: 80%;
+        width: 85%;
         margin-top: 24px;
     
         display: flex;
@@ -137,7 +139,10 @@
     .AboutImageContainer {
         width: 50%;
         height: 100%;
-        background-color: rgb(215, 255, 255);
+        background-image: url("./images/profile.png");
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     
     .AboutTextContainer {
@@ -145,11 +150,10 @@
         height: 100%;
     
         display: flex;
-        justify-content: center;
     }
     
     .AboutTextBox {
-        width: 80%;
+        width: 90%;
         margin-top: 0px;
     
         display: flex;
@@ -248,8 +252,11 @@
     
     .AboutImageContainer {
         width: 80%;
-        height: 400px;
-        background-color: rgb(215, 255, 255);
+        height: 300px;
+        background-image: url("./images/profile.png");
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     
     .AboutTextContainer {
@@ -362,15 +369,18 @@
     }
     
     .AboutImageContainer {
-        width: 80%;
+        width: 100%;
         height: 200px;
-        background-color: rgb(215, 255, 255);
+        background-image: url("./images/profile.png");
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     
     .AboutTextContainer {
         width: 100%;
         height: 100%;
-        margin-top: 44px;
+        margin-top: 33px;
     
         display: flex;
         justify-content: center;
