@@ -97,6 +97,7 @@ function CLI() {
                             <img src="/portfolio/CLI/CLI-3.jpg"></img>
                             <img src="/portfolio/CLI/CLI-4.jpg"></img>
                             <img src="/portfolio/CLI/CLI-5.jpg"></img>
+                            <img src="/portfolio/CLI/CLI-6.jpg"></img>
                         </div>
                     </div>
 
